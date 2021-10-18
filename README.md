@@ -9,3 +9,5 @@
 
 -   const and let does not create property of window object when they declared top most of code.
 -   In let and const, Redeclaring the same variable within the same function or block scope raises a SyntaxError.
+
+![Screenshot (145)](https://user-images.githubusercontent.com/84099807/137661842-cea550e8-bc7d-4611-b405-8f7254b5a84b.png)
